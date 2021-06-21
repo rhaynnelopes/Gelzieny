@@ -70,6 +70,7 @@
   
 </p>
 
+<p align="center">
 <table align='left'>
   <row>
     <td>
@@ -81,4 +82,7 @@
     </td>
   </row>
 </table>
+</p>
+
+
 
